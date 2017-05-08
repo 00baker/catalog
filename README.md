@@ -3,6 +3,6 @@
 
 # SETUP
 
-- Insatll all the required using `pip install -r requirements.txt`.
+- Install all the required using `pip install -r requirements.txt`.
 - Populate your database using `python database_seed.py`
 - Start your app using `python app.py` `http://localhost:8000`
